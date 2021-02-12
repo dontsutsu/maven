@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dontsutsu",
+    "module": "puyopuyo",
+    "version": "0.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.2",
+      "buildId": "h4ajudieibfphi4hrz3w7iy7wq"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "puyopuyo-0.0.1.jar",
+          "url": "puyopuyo-0.0.1.jar",
+          "size": 18928,
+          "sha512": "70290afbf900d4e556d684cb129718e4d01797f21e51909cebd717c936f81344f8ad277e9ce1b974eee5f792bf2aba2f4a8ebb8bf87e554b77f861e074dc7e15",
+          "sha256": "1e9c2b90ba84861114ecbc46112ae8bd0a247297ee4362eb054ab5bf6b9c67f6",
+          "sha1": "d57c5c29081357a4fed00126feb7c95165b6fbcd",
+          "md5": "7698f255664624a94372779b61bc4b27"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "puyopuyo-0.0.1.jar",
+          "url": "puyopuyo-0.0.1.jar",
+          "size": 18928,
+          "sha512": "70290afbf900d4e556d684cb129718e4d01797f21e51909cebd717c936f81344f8ad277e9ce1b974eee5f792bf2aba2f4a8ebb8bf87e554b77f861e074dc7e15",
+          "sha256": "1e9c2b90ba84861114ecbc46112ae8bd0a247297ee4362eb054ab5bf6b9c67f6",
+          "sha1": "d57c5c29081357a4fed00126feb7c95165b6fbcd",
+          "md5": "7698f255664624a94372779b61bc4b27"
+        }
+      ]
+    }
+  ]
+}
